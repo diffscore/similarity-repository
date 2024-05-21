@@ -6,6 +6,24 @@
 
 The goal of this repository is to gather **existing**  implementations of similarity measures for neural networks into a **single** python package, with a **common** and **customizable** interface. This repository doesn't provide any new implementations. It only refers to existing ones.
 
+Implemented backends:
+* [brainscore](https://github.com/brain-score/vision)
+* [deepdive](https://github.com/ColinConwell/DeepDive)
+* [dsa](https://github.com/mitchellostrow/DSA)
+* [imd](https://github.com/xgfs/imd)
+* [kornblith19](https://github.com/google-research/google-research/blob/master/representation_similarity)
+* [mklabunde](https://github.com/mklabunde/survey_measures)
+* [netrep](https://github.com/ahwillia/netrep)
+* [nn_similarity_index](https://github.com/amzn/xfer/blob/master/nn_similarity_index)
+* [platonic](https://github.com/minyoungg/platonic-rep)
+* [pyrcca](https://github.com/gallantlab/pyrcca)
+* [repsim](https://github.com/wrongu/repsim/)
+* [rsatoolbox](https://github.com/rsagroup/rsatoolbox)
+* [rtd](https://github.com/IlyaTrofimov/RTD)
+* [sim_metric](https://github.com/js-d/sim_metric)
+* [subspacematch](https://github.com/MeckyWu/subspace-match)
+* [svcca](https://github.com/google/svcca)
+* [yuanli2333](https://github.com/yuanli2333/CKA-Centered-Kernel-Alignment)
 
 ## Installation
 The python package can be installed with the following command:
